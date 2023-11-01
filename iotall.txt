@@ -1,0 +1,19 @@
+[16/10, 10:10 am] CR Omkar Jadhav Modern: https://www.tinkercad.com/things/lnhpJeS3Uf2
+
+{A3}Write an application to read temperature from the environment. If temperature crosses threshold 
+value then it notifies with buzzer(A3) :-https://www.tinkercad.com/things/k78KqQcIJtD 
+
+(B1) Write a program using Arduino to control LED (One or more ON/OFF). Or Blinking (B1):- https://www.tinkercad.com/things/fs5zj8bX5Ck 
+
+(B2)  Create a program so that when the user enters ‘b’ the green light blinks, ‘g’ the green light is 
+illuminated ‘y’ the yellow light is illuminated and ‘r’ the red light is illuminated.:- https://www.tinkercad.com/things/i7QAnOn9xZk 
+
+(B3) Write a program that asks the user for a number and outputs the number squared that is entered.:- https://www.tinkercad.com/things/l1Ukb25lEDy
+
+(B5) . Write a program read the temperature sensor and send the values to the serial monitor on the 
+computer.:- https://www.tinkercad.com/things/1ggqAint69h 
+
+(B6) . Write a program so it displays the temperature in Fahrenheit as well as the maximum and 
+minimum temperatures it has seen:- https://www.tinkercad.com/things/lnhpJeS3Uf2 
+
+(B8) Write a program using piezo element and use it to play a tune after someone knocks.:- https://www.tinkercad.com/things/d4ee78ojrwIs
